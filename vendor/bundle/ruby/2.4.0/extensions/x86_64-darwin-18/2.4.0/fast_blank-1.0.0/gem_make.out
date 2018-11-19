@@ -1,0 +1,15 @@
+current directory: /Users/ethanillingworth/GitHub/slate/vendor/bundle/ruby/2.4.0/gems/fast_blank-1.0.0/ext/fast_blank
+/Users/ethanillingworth/.rvm/rubies/ruby-2.4.2/bin/ruby -r ./siteconf20181119-29140-1cltdfz.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ethanillingworth/GitHub/slate/vendor/bundle/ruby/2.4.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" clean
+
+current directory: /Users/ethanillingworth/GitHub/slate/vendor/bundle/ruby/2.4.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR="
+compiling fast_blank.c
+linking shared-object fast_blank.bundle
+
+current directory: /Users/ethanillingworth/GitHub/slate/vendor/bundle/ruby/2.4.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fast_blank.bundle ./.gem.20181119-29140-150tstp
